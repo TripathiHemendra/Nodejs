@@ -4,4 +4,4 @@ let myname="Himanshu"
 let anothername = myname
 anothername="Anshu"
 console.log(myname);
-console.log(anothername);
+console.log(anothername); // both output is different
