@@ -1,2 +1,3 @@
-const name="Himanshu"
-console.log('Hii my name is ${} Tripathi');
+
+const name= new String('Himanshu')
+console.log(name);
