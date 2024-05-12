@@ -9,7 +9,7 @@ let user=
 
 let anotheruser = user
 
-anotheruser.name="Himanshu"
+anotheruser.name="Hemendra"
 
 console.log(user);
 console.log(anotheruser);// both output is same and give the change value in both variable
